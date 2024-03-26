@@ -1,4 +1,6 @@
+nltk
 numpy
+matplotlib
 pandas
 torch
 ipykernel
