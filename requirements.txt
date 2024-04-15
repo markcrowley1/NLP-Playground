@@ -2,5 +2,6 @@ nltk
 numpy
 matplotlib
 pandas
+spacy
 torch
 ipykernel
