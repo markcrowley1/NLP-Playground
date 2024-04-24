@@ -1,2 +1,3 @@
 # NLP-Playground
-Walking through some basic Natural Language Processing concepts.
+
+Sandbox for learning about Natural Language Processing techniques and working on short NLP projects.
